@@ -56,3 +56,10 @@ body {
 .estudante-div {
   text-align: center;
 }
+background-color:#383D58 ;
+color :white ;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;
+}
